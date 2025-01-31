@@ -1,0 +1,18 @@
+{
+  "name": "@khulnasoft/envd",
+  "version": "0.0.0-automated",
+  "description": "KHULNASOFT Env Daemon",
+  "repository": "https://github.com/khulnasoft/infra",
+  "homepage": "https://khulnasoft.dev",
+  "bugs": "https://github.com/khulnasoft/infra/issues",
+  "license": "MIT",
+  "author": "KHULNASOFT",
+  "type": "module",
+  "url": "https://github.com/khulnasoft/infra/releases/download/v{{version}}/{{bin_name}}_{{version}}_{{platform}}_{{arch}}.tar.gz",
+  "bin": "bin/envd",
+  "release": {
+    "branches": [
+      "main"
+    ]
+  }
+}

@@ -1,0 +1,10 @@
+go 1.23
+
+use (
+	./packages/api
+	./packages/docker-reverse-proxy
+	./packages/envd
+	./packages/orchestrator
+	./packages/shared
+	./packages/template-manager
+)

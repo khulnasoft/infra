@@ -1,0 +1,16 @@
+# This is a config for KHULNASOFT sandbox template.
+# You can use template ID (rki5dems9wqfm4r03t7g) or template name (base) to create a sandbox:
+
+# Python SDK
+# from khulnasoft import Sandbox, AsyncSandbox
+# sandbox = Sandbox("base") # Sync sandbox
+# sandbox = await AsyncSandbox.create("base") # Async sandbox
+
+# JS SDK
+# import { Sandbox } from 'khulnasoft'
+# const sandbox = await Sandbox.create('base')
+
+memory_mb = 512
+dockerfile = "khulnasoft.Dockerfile"
+template_name = "base"
+template_id = "rki5dems9wqfm4r03t7g"

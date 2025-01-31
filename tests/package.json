@@ -1,0 +1,12 @@
+{
+  "name": "khulnasoft-e2e-test-pipeline",
+  "version": "0.0.1",
+  "description": "Test pipeline for khulnasoft",
+  "main": "test.js",
+  "type": "module",
+  "author": "khulnasoft.dev",
+  "dependencies": {
+    "khulnasoft": "^0.13.0",
+    "dotenv": "^16.3.1"
+  }
+}
