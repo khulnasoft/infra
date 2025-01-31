@@ -6,12 +6,12 @@ require (
 	cloud.google.com/go/artifactregistry v1.16.0
 	github.com/Microsoft/hcsshim v0.12.9
 	github.com/docker/docker v27.3.1+incompatible
-	github.com/khulnasoft/infra/packages/shared v0.0.0
 	github.com/firecracker-microvm/firecracker-go-sdk v1.0.0
 	github.com/fsouza/go-dockerclient v1.12.0
 	github.com/go-openapi/strfmt v0.23.0
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
 	github.com/grpc-ecosystem/go-grpc-middleware/v2 v2.1.0
+	github.com/khulnasoft/infra/packages/shared v0.0.0
 	github.com/opencontainers/image-spec v1.1.0
 	github.com/rs/zerolog v1.33.0
 	github.com/vishvananda/netlink v1.3.0
